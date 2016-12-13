@@ -1,0 +1,15 @@
+.techs-container {
+  margin: 1.5rem;
+}
+
+.techs-h2 {
+  font-weight: 300;
+  font-size: 2.5rem;
+}
+
+.techs {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
