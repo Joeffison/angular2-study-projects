@@ -1,0 +1,20 @@
+.tech {
+  height: 30rem;
+  width: 30rem;
+  border: 1px solid lightgray;
+  border-radius: 2rem;
+  margin: 2rem;
+  padding: 2rem;
+}
+
+.tech-logo {
+  width: 10rem;
+  height: 10rem;
+  float: right;
+  margin: 0 0 1rem 1rem;
+}
+
+.tech-h3 {
+  font-size: 2.5rem;
+  margin: 0 0 4rem 0;
+}
